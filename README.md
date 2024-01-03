@@ -32,7 +32,7 @@ By sending `OPTIONS` request to any path, you will get the HTTP 204 No Content r
 
 ### Visit / Redirect
 
-By visit `https://example.com/AbxY` in browser, if the key is correct, you will be redirected to the actual link.
+By visiting `https://example.com/AbxY` in browser, if the key is correct, you will be redirected to the actual link.
 
 ### Save URL
 
