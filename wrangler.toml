@@ -1,0 +1,9 @@
+name = "cloudflare-shorten-worker"
+main = "src/index.ts"
+compatibility_date = "2023-12-18"
+account_id = "dbceb22eec2f498fe58d145a7137da55"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "links"
+id = "0d3f8faa8f8243fc96a147e472a18d9f"
